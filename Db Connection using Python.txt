@@ -1,0 +1,12 @@
+Pip install mysql.connnector install to connect  with python
+
+
+import mysql.connector
+db=mysql.connector.connect(host="hostname",user="username",password="password") 
+
+
+fetch using  cursor
+db.cursor
+
+we can use insert,show using "excute" method
+
