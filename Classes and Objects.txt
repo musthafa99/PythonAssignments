@@ -1,0 +1,27 @@
+OOPs CONCEPT
+OOPs-Object-Oriented Programming is programming paradigm that uses objects and classes. It aims to implement real-world entities like inheritance, polymorphism, encapsulation etc in programming language. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.
+
+Main Concepts of Object-Oriented Programming (OOPs) 
+•	Class
+•	Objects
+•	Polymorphism
+•	Encapsulation
+•	Inheritance
+•	Data Abstraction
+CLASS:
+	A Class is collection of objects. A class can contains the blueprint. It is logical entity that contains attributes and methods. Class are created by using class Keyword.
+SYNTAX:
+	Class Name:
+		Statement1
+		…….
+		…….
+		……
+		Statement n
+In python, the class Attributes are always public can be accessed using dot(.) Operator.
+OBJECTS:
+	An object is simply a collection of data (Variables) and methods(functions) that act on those data. 
+
+INIT METHOD
+	All classes have a function called __init__(), which is always executed when the class is being initiated.
+Use the __init() function to assign values to object properties, or other operations that are necessary to do when the object is being created:
+The __init__() function is called automatically every time the class is being used to create a new object.
