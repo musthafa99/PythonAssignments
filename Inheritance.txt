@@ -1,0 +1,13 @@
+				Inheritance
+
+Inheritance enables us to define a class that takes all the functionality from a parent class and allows us to add more.
+Inheritance is a powerful feature in object oriented programming.
+
+It refers to defining a new class with little or no modification to an existing class. The new class is called derived (or child) 
+class and the one from which it inherits is called the base (or parent) class.
+
+Syntax:
+class BaseClass:
+	statement
+class DerivedClass(BaseClass):
+	statement
